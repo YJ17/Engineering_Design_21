@@ -1,3 +1,3 @@
 # Engineering_Design_21
 
-HTML 폴더 안에 HTML실습코드와 이미지파일이 있습니다.
+각 폴더 안에 HTML, CSS 실습코드와 사용된 이미지 파일이 있습니다.
